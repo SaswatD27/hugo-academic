@@ -25,6 +25,9 @@ feature:
 - icon: fa-solid fa-people-group
   icon_pack: fas
   name: Leadership and Team Management
+- icon: fa-brands fa-linux
+  icon_pack: fab
+  name: Linux
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
