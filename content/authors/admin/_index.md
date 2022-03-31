@@ -13,31 +13,22 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/SaswatDas19
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/SaswatD27
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/saswat-das-3b7051179/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National Institute of Science Education and Research, HBNI
+    url: https://www.niser.ac.in
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Integrated MSc (Mathematics Major and Computer Science Minor)
+      institution: National Institute of Science Education and Research, HBNI
+      year: 2023
+email: saswat.das@niser.ac.in
 superuser: true
 highlight_name: true
 ---
