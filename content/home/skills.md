@@ -19,14 +19,12 @@ feature:
 - icon: fa-brands fa-python
   icon_pack: fab
   name: Python
-- description: 100%
-  icon: chart-line
+-   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Math and Statistics
+- icon: fa-solid fa-people-group
   icon_pack: fas
-  name: Photography
+  name: Leadership and Team Management
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
