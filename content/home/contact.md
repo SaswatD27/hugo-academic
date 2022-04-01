@@ -41,7 +41,7 @@ content:
   office_hours:
     - 'Monday 16:30 to 18:00'
     - 'Wednesday 16:30 to 18:00'
-    -' Friday 13:30 to 17:30'
+    - 'Friday 13:30 to 17:30'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
