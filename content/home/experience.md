@@ -26,7 +26,7 @@ experience:
   - title: Student Researcher
     company: SM Lab, NISER, HBNI
     company_url: 'https://www.niser.ac.in/~smishra/'
-    company_logo: National-Institute-of-Science-Education-and-Research
+    company_logo: National_Institute_of_Science_Education_and_Research
     location: Odisha, IN
     date_start: '2021-03-01'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
   - title: Attendee, Summer School on Computer & Cyber Security
     company: Technion - Israel Institute of Technology
     company_url: ''
-    company_logo: Technion-logo
+    company_logo: Technion_logo
     # location: Online
     date_start: '2020-09-07'
     date_end: '2020-09-10'
@@ -44,7 +44,7 @@ experience:
   - title: Winter Intern
     company: School of Computer Sciences, NISER, HBNI
     company_url: ''
-    company_logo: National-Institute-of-Science-Education-and-Research
+    company_logo: National_Institute_of_Science_Education_and_Research
     location: Odisha, IN
     date_start: '2019-12-10'
     date_end: '2020-01-01'
@@ -53,7 +53,7 @@ experience:
   - title: Summer Intern
     company: School of Computer Sciences, NISER, HBNI
     company_url: ''
-    company_logo: National-Institute-of-Science-Education-and-Research
+    company_logo: National_Institute_of_Science_Education_and_Research
     location: Odisha, IN
     date_start: '2019-05-15'
     date_end: '2019-07-24'
