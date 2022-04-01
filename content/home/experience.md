@@ -22,28 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+        
+  - title: Student Researcher
+    company: SM Lab, NISER, HBNI
+    company_url: 'https://www.niser.ac.in/~smishra/'
+    company_logo: National_Institute_of_Science_Education_and_Research
+    location: Odisha, IN
+    date_start: '2021'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+    description: Work on various projects related to differential privacy and privacy-preserving machine learning.
+ 
+ - title: Attendee, Summer School on Computer & Cyber Security
+    company: Technion - Israel Institute of Technology
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: Technion_logo
+    # location: Online
+    date_start: '2020-09'
+    date_end: '2020-09'
+    description: Studied zero-knowledge proofs, zk-SNARKs, and ZeroCash.
+    
+  - title: Winter Intern
+    company: School of Computer Sciences, NISER, HBNI
+    company_url: ''
+    company_logo: National_Institute_of_Science_Education_and_Research
+    location: Odisha, IN
+    date_start: '2019-12'
+    date_end: '2020-01'
+    description: Studied zero-knowledge proofs, zk-SNARKs, and ZeroCash.
+    
+  - title: Summer Intern
+    company: School of Computer Sciences, NISER, HBNI
+    company_url: ''
+    company_logo: National_Institute_of_Science_Education_and_Research
+    location: Odisha, IN
+    date_start: '2019-05'
+    date_end: '2019-07'
+    description: Studied and presented talks on blockchain technologies, cryptocurrencies, and smart contracts.
 
 design:
   columns: '2'
