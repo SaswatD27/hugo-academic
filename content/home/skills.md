@@ -23,7 +23,7 @@ feature:
 - description: Proficient
   icon: chart-line
   icon_pack: fas
-  name: Math # and Statistics
+  name: Math and Statistics
 - description: Intermediate
   icon: fa-solid fa-laptop-code
   icon_pack: fas
@@ -35,7 +35,7 @@ feature:
 - description: Proficient
   icon: fa-solid fa-people-group
   icon_pack: fas
-  name: Leadership # and Team Management
+  name: Leadership and Team Management
 - description: Intermediate
   icon: fa-brands fa-linux
   icon_pack: fab
