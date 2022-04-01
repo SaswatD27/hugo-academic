@@ -18,7 +18,7 @@ links:
   name: Follow
   url: https://twitter.com/SaswatDas19
 url_code: ""
-url_pdf: "uploads/Saswat-Sem7.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
