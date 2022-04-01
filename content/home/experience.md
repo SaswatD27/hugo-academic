@@ -32,7 +32,7 @@ experience:
     date_end: ''
     description: Work on various projects related to differential privacy and privacy-preserving machine learning.
  
- - title: Attendee, Summer School on Computer & Cyber Security
+  - title: Attendee, Summer School on Computer & Cyber Security
     company: Technion - Israel Institute of Technology
     company_url: ''
     company_logo: Technion_logo
