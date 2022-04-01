@@ -28,7 +28,7 @@ experience:
     company_url: 'https://www.niser.ac.in/~smishra/'
     company_logo: National_Institute_of_Science_Education_and_Research
     location: Odisha, IN
-    date_start: '2021'
+    date_start: '2021-03-01'
     date_end: ''
     description: Work on various projects related to differential privacy and privacy-preserving machine learning.
  
@@ -37,8 +37,8 @@ experience:
     company_url: ''
     company_logo: Technion_logo
     # location: Online
-    date_start: '2020-09'
-    date_end: '2020-09'
+    date_start: '2020-09-07'
+    date_end: '2020-09-10'
     description: Studied zero-knowledge proofs, zk-SNARKs, and ZeroCash.
     
   - title: Winter Intern
@@ -46,8 +46,8 @@ experience:
     company_url: ''
     company_logo: National_Institute_of_Science_Education_and_Research
     location: Odisha, IN
-    date_start: '2019-12'
-    date_end: '2020-01'
+    date_start: '2019-12-10'
+    date_end: '2020-01-01'
     description: Studied zero-knowledge proofs, zk-SNARKs, and ZeroCash.
     
   - title: Summer Intern
@@ -55,8 +55,8 @@ experience:
     company_url: ''
     company_logo: National_Institute_of_Science_Education_and_Research
     location: Odisha, IN
-    date_start: '2019-05'
-    date_end: '2019-07'
+    date_start: '2019-05-15'
+    date_end: '2019-07-24'
     description: Studied and presented talks on blockchain technologies, cryptocurrencies, and smart contracts.
 
 design:
