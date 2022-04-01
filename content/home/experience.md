@@ -32,7 +32,7 @@ experience:
     date_end: ''
     description: Work on various projects related to differential privacy and privacy-preserving machine learning.
  
- - title: Section Leader, CodeInPlace
+  - title: Section Leader, CodeInPlace
     company: Stanford University
     company_url: ''
     company_logo: Stanford_Cardinal_logo
