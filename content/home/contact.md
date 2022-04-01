@@ -37,12 +37,12 @@ content:
   #coordinates:
     #latitude: '37.4275'
     #longitude: '-122.1697'
-  directions: Enter the SMS Building and go down the left hall of the ground floor
+  directions: Enter the SMS Building and go down the left hall of the ground floor.
   office_hours:
     - 'Monday 16:30 to 18:00'
     - 'Wednesday 16:30 to 18:00'
     - 'Friday 13:30 to 17:30'
-  appointment_url: 'https://calendly.com'
+  appointment_url: 'https://calendly.com/auditore1saswat'
   contact_links:
     - icon: twitter
       icon_pack: fab
