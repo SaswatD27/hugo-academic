@@ -7,6 +7,10 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Experience
+    identifier: experience
+    url: '#experience'
+    weight: 10
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
@@ -26,5 +30,6 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
+    parent: experience
     url: uploads/Resume%20-%20Saswat%20Das.pdf
     weight: 70
