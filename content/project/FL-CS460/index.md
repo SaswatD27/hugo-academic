@@ -1,5 +1,5 @@
 ---
-title: Novel Methods for Federated Learning: Communication-Efficiency and Decentralisation
+title: Novel Methods for Federated Learning - Communication-Efficiency and Decentralisation
 summary: Currently pending publication. Originally conceived as part of a course project for CS460: Machine Learning (Fall, 2021) at NISER.
 tags:
 - Federated Learning
