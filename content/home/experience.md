@@ -32,6 +32,15 @@ experience:
     date_end: ''
     description: Work on various projects related to differential privacy and privacy-preserving machine learning.
  
+ - title: Section Leader, CodeInPlace
+    company: Stanford University
+    company_url: ''
+    company_logo: Stanford_Cardinal_logo
+    # location: Online
+    date_start: '2021-04-10'
+    date_end: '2020-05-20'
+    description: Taught Python to a section of students from across the globe using material from Stanford University's CS106A course.
+    
   - title: Attendee, Summer School on Computer & Cyber Security
     company: Technion - Israel Institute of Technology
     company_url: ''
@@ -39,7 +48,7 @@ experience:
     # location: Online
     date_start: '2020-09-07'
     date_end: '2020-09-10'
-    description: Studied zero-knowledge proofs, zk-SNARKs, and ZeroCash.
+    description: Attended Technion's Summer School which covered several topics broadly pertaining to privacy and cybersecurity, and the economic aspects of it.
     
   - title: Winter Intern
     company: School of Computer Sciences, NISER, HBNI
