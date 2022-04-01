@@ -30,4 +30,4 @@ url_video: ""
 # slides: example
 ---
 
-Drafted n collaboration with a couple of my classmates as part of the course requirements for CS451 - Modern Cryptology (Summer, 2021) taught by Dr. Rishiraj Bhattacharyya at NISER, this term paper explores the motivation and ideas behind hybrid encryption and some pertinent algorithms and analysis.
+Drafted in collaboration with a couple of my classmates as part of the course requirements for CS451 - Modern Cryptology (Summer, 2021) taught by Dr. Rishiraj Bhattacharyya at NISER, this term paper explores the motivation and ideas behind hybrid encryption and some pertinent algorithms and analysis.
