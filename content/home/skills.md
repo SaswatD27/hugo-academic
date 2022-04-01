@@ -16,18 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: Proficient
+  icon: fa-brands fa-python
   icon_pack: fab
-  name: R
-- description: 100%
+  name: Python
+- description: Proficient
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Math # and Statistics
+- description: Intermediate
+  icon: fa-solid fa-laptop-code
   icon_pack: fas
-  name: Photography
+  name: Machine Learning
+- description: Intermediate
+  icon: fa-solid fa-cubes
+  icon_pack: fas
+  name: Blockchains # and Distributed Ledgers
+- description: Proficient
+  icon: fa-solid fa-people-group
+  icon_pack: fas
+  name: Leadership # and Team Management
+- description: Intermediate
+  icon: fa-brands fa-linux
+  icon_pack: fab
+  name: Linux
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
