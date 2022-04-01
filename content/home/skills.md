@@ -21,10 +21,16 @@ feature:
   name: Python
 - icon: chart-line
   icon_pack: fas
-  name: Math and Statistics
+  name: Math # and Statistics
+- icon: fa-solid fa-laptop-code
+  icon_pack: fas
+  name: Machine Learning
+- icon: fa-solid fa-cubes
+  icon_pack: fas
+  name: Blockchains # and Distributed Ledgers
 - icon: fa-solid fa-people-group
   icon_pack: fas
-  name: Leadership and Team Management
+  name: Leadership # and Team Management
 - icon: fa-brands fa-linux
   icon_pack: fab
   name: Linux
