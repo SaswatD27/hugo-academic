@@ -30,7 +30,7 @@ experience:
     location: Odisha, IN
     date_start: '2021-03-01'
     date_end: ''
-    description: Curently working on various projects related to differential privacy and privacy-preserving machine learning.
+    description: Currently working on various projects related to differential privacy and privacy-preserving machine learning.
  
   - title: Section Leader, CodeInPlace
     company: Stanford University
