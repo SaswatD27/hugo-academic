@@ -1,6 +1,6 @@
 ---
 title: Term Paper on Hybrid Encryption
-summary: Done in collaboration with my peers as part of the requirements for CS451 - Modern Cryptology (Summer, 2021)
+summary: Done in collaboration with my peers as part of the requirements for CS451 - Modern Cryptology (Summer, 2021).
 tags:
 - Cryptography
 date: "2021-07-03T00:00:00Z"
