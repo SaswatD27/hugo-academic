@@ -19,7 +19,7 @@ feature:
 - icon: fa-brands fa-python
   icon_pack: fab
   name: Python
--   icon: chart-line
+- icon: chart-line
   icon_pack: fas
   name: Math and Statistics
 - icon: fa-solid fa-people-group
