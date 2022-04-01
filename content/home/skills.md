@@ -16,22 +16,28 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: fa-brands fa-python
+- description: Proficient
+  icon: fa-brands fa-python
   icon_pack: fab
   name: Python
-- icon: chart-line
+- description: Proficient
+  icon: chart-line
   icon_pack: fas
   name: Math # and Statistics
-- icon: fa-solid fa-laptop-code
+- description: Intermediate
+  icon: fa-solid fa-laptop-code
   icon_pack: fas
   name: Machine Learning
-- icon: fa-solid fa-cubes
+- description: Intermediate
+  icon: fa-solid fa-cubes
   icon_pack: fas
   name: Blockchains # and Distributed Ledgers
-- icon: fa-solid fa-people-group
+- description: Proficient
+  icon: fa-solid fa-people-group
   icon_pack: fas
   name: Leadership # and Team Management
-- icon: fa-brands fa-linux
+- description: Intermediate
+  icon: fa-brands fa-linux
   icon_pack: fab
   name: Linux
 
