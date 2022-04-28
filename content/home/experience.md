@@ -28,7 +28,7 @@ experience:
     company_logo: Syracuse_Orange_logo
     location: Syracuse, NY, USA
     date_start: '2022-06-01'
-    date_end: ''
+    date_end: '2022-08-15'
     description: Will be joining Dr. Ferdinando Fioretto's lab in the summer of 2022 for a 2.5 month long internship. Will work on research projects related to differential privacy and fairness.
   
   - title: Student Researcher
