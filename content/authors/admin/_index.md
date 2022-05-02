@@ -1,5 +1,5 @@
 ---
-title: Saswat Das (ସାସ୍ୱତ ଦାସ)
+title: Saswat Das (ଶାଶ୍ବତ ଦାସ)
 role: Student Researcher
 avatar_filename: avatar-3-.jpg
 bio: My research interests include differential privacy, privacy-preserving
