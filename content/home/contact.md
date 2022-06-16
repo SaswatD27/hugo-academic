@@ -26,22 +26,32 @@ content:
 
   # Contact details (edit or remove options as required)
   email: saswat.das@niser.ac.in
+  email: thenicec1pher@gmail.com
+  email: dsaswat@syr.edu
   phone: +91 63701 47889
+  phone: +1 (315) 886-5504
   address:
-    street: NISER Campus
-    city: Bhubaneswar
-    region: Odisha
-    postcode: '742050'
-    country: India
-    country_code: IN
+    street: College Pl
+    city: Syracuse
+    region: NY
+    postcode: '13210'
+    country: United States
+    country_code: US
+    #street: NISER Campus
+    #city: Bhubaneswar
+    #region: Odisha
+    #postcode: '742050'
+    #country: India
+    #country_code: IN
   #coordinates:
     #latitude: '37.4275'
     #longitude: '-122.1697'
-  directions: Enter the SMS Building and go down the left hall of the ground floor.
-  office_hours:
-    - 'Monday 16:30 to 18:00 IST'
-    - 'Wednesday 16:30 to 18:00 IST'
-    - 'Friday 13:30 to 17:30 IST'
+  directions: On the 4th Floor of the Center for Science and Technology, adjacent to the Life Sciences building
+  #directions: Enter the SMS Building and go down the left hall of the ground floor.
+  #office_hours:
+    #- 'Monday 16:30 to 18:00 IST'
+    #- 'Wednesday 16:30 to 18:00 IST'
+    #- 'Friday 13:30 to 17:30 IST'
   appointment_url: 'https://calendly.com/auditore1saswat'
   contact_links:
     - icon: twitter
