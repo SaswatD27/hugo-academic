@@ -6,7 +6,7 @@ title: 'Fair Context-Aware Privacy Threat Modelling'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Mr. Rakshit Naidu (Carnegie Mellon University)
+  - Rakshit Naidu (Carnegie Mellon University)
 
 # Author notes (optional)
 # author_notes:
