@@ -26,8 +26,8 @@ publishDate: '2022-06-24T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *PTM-SOUPS, USENIX*
-publication_short: In *SOUPS 2022*
+publication: In *PTM-SOUPS 2022, USENIX*
+publication_short: In *PTM-SOUPS 2022*
 
 abstract: Given the progressive nature of the world today, fairness is a very important social aspect in various areas, and it has long been studied with the advent of technology. To the best of our knowledge, methods of quantifying fairness errors and fairness in privacy threat models have been absent. To this end, in this short paper, we examine notions of fairness in privacy threat modelling due to different causes of privacy threats within a particular situation/context and that across contexts.
 
