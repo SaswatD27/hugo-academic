@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'uploads/Fair_Privacy_Threat_Modelling__PTM_SOUPS_22_ (2).pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
