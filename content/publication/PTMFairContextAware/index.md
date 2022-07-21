@@ -41,9 +41,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ links:
+ - name: arXiv
+   url: https://arxiv.org/abs/2207.09750
 
 url_pdf: 'uploads/Fair_Privacy_Threat_Modelling__PTM_SOUPS_22_ (2).pdf'
 url_code: ''
