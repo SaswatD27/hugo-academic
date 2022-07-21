@@ -41,7 +41,7 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links: true
  - name: arXiv
    url: https://arxiv.org/abs/2207.09750
 
