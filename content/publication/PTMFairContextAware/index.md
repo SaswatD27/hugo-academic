@@ -42,10 +42,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: ArXiV
-#  url: https://arxiv.org/abs/2207.09750
+# - name: Custom Link
+#   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2207.09750'
+url_pdf: 'uploads/Fair_Privacy_Threat_Modelling__PTM_SOUPS_22_ (2).pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -66,11 +66,13 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: example
+---
