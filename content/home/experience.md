@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Summer Intern/Visiting Research Scholar
+  - title: Visiting Research Scholar/Former Summer Intern
     company: EECS, Syracuse University
     company_url: 'https://ecs.syracuse.edu/'
     company_logo: Syracuse_Orange_logo
@@ -30,7 +30,7 @@ experience:
     date_start: '2022-06-01'
     date_end: '' 
     # 2022-08-15'
-    description: Currently working at Dr. Ferdinando Fioretto's lab in the summer of 2022 for a 2.5 month long internship. Our work involves research related to differential privacy and fairness in data analysis (including demographic analysis) and AI.
+    description: Currently working under the supervision of Dr. Ferdinando Fioretto, beginning with an internship in the summer of 2022 (June '22 - August '22) on research related to (but not limited to) differential privacy and fairness in data analysis (including demographic analysis) and AI.
   
   - title: Student Researcher
     company: SM Lab, NISER, HBNI
