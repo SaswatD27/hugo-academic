@@ -29,7 +29,7 @@ content:
   email: thenicec1pher@gmail.com
   email: dsaswat@syr.edu
   phone: +91 63701 47889
-  phone: +1 (315) 886-5504
+  # phone: +1 (315) 886-5504
   address:
     street: College Pl
     city: Syracuse
