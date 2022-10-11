@@ -3,7 +3,8 @@ title: Advances in Differential Privacy and Differentially Private Machine Learn
 summary: Under Review at ACM CSUR for the special edition on Trustworthy AI. Work done under Dr. Subhankar Mishra's supervision at NISER.
 tags:
 - Differential Privacy
-- Graph Neural Networks
+- Machine Learning
+- Privacy Preserving Machine Learning
 date: "2022-12-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
