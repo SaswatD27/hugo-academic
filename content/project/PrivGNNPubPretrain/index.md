@@ -4,7 +4,7 @@ summary: Ongoing project in collaboration with Dr. Georgios Kaissis' lab at TU M
 tags:
 - Differential Privacy
 - Graph Neural Networks
-date: "2021-11-17T00:00:00Z"
+date: "2022-10-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://www.niser.ac.in/~smishra/teach/cs460/2021/project/21cs460_group01/"
