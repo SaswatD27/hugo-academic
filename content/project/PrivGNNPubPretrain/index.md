@@ -2,7 +2,8 @@
 title: Training High-Utility Differentially Private Graph Neural Networks with Public Pretraining
 summary: Ongoing project in collaboration with Dr. Georgios Kaissis' lab at TU Munich.
 tags:
-- Federated Learning
+- Differential Privacy
+- Graph Neural Networks
 date: "2021-11-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
