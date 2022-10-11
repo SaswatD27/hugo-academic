@@ -1,6 +1,6 @@
 ---
 title: On the Equity of Privacy Preserving Methods in (Demographic) Data Analysis
-summary: Ongoing project as a member of Dr. Ferdinando Fioretto's lab at TU Munich.
+summary: Ongoing project as a member of Dr. Ferdinando Fioretto's lab at Syracuse University, and in collaboration with Keyu Zhu (Georgia Tech).
 tags:
 - Differential Privacy
 - Fairness
