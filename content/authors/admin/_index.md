@@ -34,8 +34,8 @@ email: saswat.das@niser.ac.in
 superuser: true
 highlight_name: true
 ---
-Saswat Das is currently pursuing an Integrated Master's of Science degree at the National Institute of Science Education and Research (NISER), an off-campus centre of Homi Bhabha National Institute, India, with a major in Mathematics and a minor in Computer Science. He currently is an incoming PhD student at [Dr. Ferdinando Fioretto's Lab](https://web.ecs.syr.edu/~ffiorett/) and also has been a student researcher at the School of Computer Sciences at NISER (2021-2023). His research deals broadly with privacy and security; more precisely, his research interests include differential privacy and fairness, trustworthy AI (including private, fair, explainable and robust ML), cryptography, and topics related to security.
+Saswat is an incoming PhD student at [Dr. Ferdinando Fioretto's Lab](https://web.ecs.syr.edu/~ffiorett/) and also has been a student researcher at the School of Computer Sciences at NISER (2021-2023). His research deals broadly with privacy and security; more precisely, his research interests include differential privacy and fairness, trustworthy AI (including private, fair, explainable and robust ML), cryptography, and topics related to security. Until recently, he pursued an Integrated M.Sc. (BS+MS) degree at the National Institute of Science Education and Research (NISER), an off-campus centre of Homi Bhabha National Institute, India, with a major in Mathematics and a minor in Computer Science.
 
-He is based in Bhubaneswar, but spent a major chunk of his childhood in Navi Mumbai. Reach out to him anytime to discuss research ideas and opportunities, and invitations to give talks on his research interests.
+He is based in Bhubaneswar, but spent a major chunk of his childhood in Navi Mumbai. Reach out to him anytime to discuss research ideas and opportunities, and invitations to give talks on his research.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/Resume%20-%20Saswat%20Das.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download his {{< staticref "/uploads/Resume%20-%20Saswat%20Das.pdf" "newtab" >}}resumé{{< /staticref >}}.
