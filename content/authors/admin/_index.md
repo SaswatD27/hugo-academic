@@ -30,7 +30,7 @@ education:
     - course: Integrated MSc (Mathematics Major and Computer Science Minor)
       institution: National Institute of Science Education and Research, HBNI
       year: 2023
-email: saswat.das@niser.ac.in
+email: duh6ae@virginia.edu
 superuser: true
 highlight_name: true
 ---
