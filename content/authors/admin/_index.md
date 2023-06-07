@@ -29,10 +29,10 @@ education:
   courses:
     - course: PhD
       institution: SEAS, University of Virginia
-      year: 2023-
+      year: 2023 - Present
     - course: Integrated M.Sc. (BS+MS) (Mathematics Major and Computer Science Minor)
       institution: National Institute of Science Education and Research, HBNI
-      year: 2018-23
+      year: 2018 - 23
 email: duh6ae@virginia.edu
 superuser: true
 highlight_name: true
