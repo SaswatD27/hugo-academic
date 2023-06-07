@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: PhD Student
     company: SEAS, University of Virginia
-    company_url: 'https://ecs.syracuse.edu/'
+    company_url: https://engineering.virginia.edu/
     company_logo: UVAlogo
     location: Charlottesville, VA, USA
     date_start: '2023-08-17'
