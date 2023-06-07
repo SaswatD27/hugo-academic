@@ -1,6 +1,6 @@
 ---
 title: Saswat Das
-role: Student Researcher
+role: Incoming PhD Student
 avatar_filename: SaswatPfP.png
 bio: My research interests include differential privacy, privacy-preserving
   machine learning (viz. DPML and Federated Learning), and cryptography.
@@ -23,13 +23,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/saswat-das-3b7051179/
 organizations:
-  - name: National Institute of Science Education and Research, HBNI
-    url: https://www.niser.ac.in
+  - name: SEAS, University of Virginia
+    url: https://engineering.virginia.edu/
 education:
   courses:
-    - course: Integrated MSc (Mathematics Major and Computer Science Minor)
+    - course: PhD
+      institution: SEAS, University of Virginia
+      year: 2023-
+    - course: Integrated M.Sc. (BS+MS) (Mathematics Major and Computer Science Minor)
       institution: National Institute of Science Education and Research, HBNI
-      year: 2023
+      year: 2018-23
 email: duh6ae@virginia.edu
 superuser: true
 highlight_name: true
