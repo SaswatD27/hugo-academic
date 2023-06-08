@@ -27,6 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   email: saswat.das@niser.ac.in
   email: thenicec1pher@gmail.com
+  email: duh6ae@virginia.edu
   # email: dsaswat@syr.edu
   phone: +91 63701 47889
   # phone: +1 (315) 886-5504
