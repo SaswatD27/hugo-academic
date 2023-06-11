@@ -27,7 +27,7 @@ organizations:
     url: https://engineering.virginia.edu/
 education:
   courses:
-    - course: PhD
+    - course: PhD (Computer Science)
       institution: SEAS, University of Virginia
       year: 2023 - Present
     - course: Integrated M.Sc. (BS+MS) (Mathematics Major and Computer Science Minor)
@@ -41,6 +41,6 @@ Saswat is an incoming PhD student at [Dr. Ferdinando Fioretto's Lab](https://web
 
 Prior to this, he pursued an Integrated M.Sc. (BS+MS) degree at the National Institute of Science Education and Research (NISER), an off-campus centre of Homi Bhabha National Institute, India, with a major in Mathematics and a minor in Computer Science. He also was a student researcher at the School of Computer Sciences at NISER (2021-2023).
 
-He is based in Bhubaneswar, but spent a major chunk of his childhood in Navi Mumbai. Reach out to him anytime to discuss research ideas and opportunities, and invitations to give talks on his research.
+Reach out to him anytime to discuss research ideas and opportunities, and invitations to give talks on his research.
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "/uploads/Resume%20-%20Saswat%20Das.pdf" "newtab" >}}resumé{{< /staticref >}}.
