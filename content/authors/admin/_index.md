@@ -43,4 +43,4 @@ Prior to this, he pursued an Integrated M.Sc. (BS+MS) degree at the National Ins
 
 Reach out to him anytime to discuss research ideas and opportunities, and invitations to give talks on his research.
 
-[//]: <> {{< icon name="download" pack="fas" >}} Download his {{< staticref "/uploads/CV%20-%20Saswat%20Das.pdf" "newtab" >}}CV{{< /staticref >}}.
+[comment]: # {{< icon name="download" pack="fas" >}} Download his {{< staticref "/uploads/CV%20-%20Saswat%20Das.pdf" "newtab" >}}CV{{< /staticref >}}.
