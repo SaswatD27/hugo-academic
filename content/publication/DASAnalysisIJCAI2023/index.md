@@ -6,7 +6,7 @@ title: 'Privacy and Bias Analysis of Disclosure Avoidance Systems'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Keyu Zhu (Georgia Tech)
-  - Ferdinando Fioretto (Syracuse University)
+  - Ferdinando Fioretto (UVA)
   - Pascal van Hentenryck (Georgia Tech)
   - admin
   - Christine Task (Knexus Research)
