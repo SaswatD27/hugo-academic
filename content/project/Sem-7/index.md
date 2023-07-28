@@ -1,5 +1,5 @@
 ---
-title: 7th Semester Project
+title: 7th Semester Project at NISER
 summary: A Review of Differential Privacy and Recent Developments.
 tags:
 - Differential Privacy
