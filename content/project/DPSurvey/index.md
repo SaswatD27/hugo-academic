@@ -1,6 +1,6 @@
 ---
 title: Advances in Differential Privacy and Differentially Private Machine Learning - A Survey
-summary: Under Review at ACM CSUR for the special edition on Trustworthy AI. Work done under Dr. Subhankar Mishra's supervision at NISER.
+summary: Under Review
 tags:
 - Differential Privacy
 - Machine Learning
