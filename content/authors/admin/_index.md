@@ -16,6 +16,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SaswatDas19
+  - icon: mastodon
+    icon_pack: fab
+    link: https://mastodon.social/@saswatdas
   - icon: github
     icon_pack: fab
     link: https://github.com/SaswatD27
