@@ -44,6 +44,8 @@ Saswat is an incoming PhD student at [Dr. Ferdinando Fioretto's Lab](https://web
 
 Prior to this, he pursued an Integrated M.Sc. (BS+MS) degree at the National Institute of Science Education and Research (NISER), an off-campus centre of Homi Bhabha National Institute, India, with a major in Mathematics and a minor in Computer Science. He also was a student researcher at the School of Computer Sciences at NISER (2021-2023).
 
-Reach out to him anytime to discuss research ideas and opportunities, and invitations to give talks on his research.
+Reach out to him anytime for collaborations, regarding opportunities and to give talks on his research. Open to research internship opportunities for the Summer of 2024 and collaborations in general! 
+
+# (N.B. But please do not send unsolicited email for any purpose unrelated to what I have mentioned and my work, viz. spam of any sort! Such mails shall be promptly ignored.)
 
 <!--- {{< icon name="download" pack="fas" >}} Download his {{< staticref "/uploads/CV%20-%20Saswat%20Das.pdf" "newtab" >}}CV{{< /staticref >}}. -->
