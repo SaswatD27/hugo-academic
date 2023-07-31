@@ -46,6 +46,4 @@ Prior to this, he pursued an Integrated M.Sc. (BS+MS) degree at the National Ins
 
 Reach out to him anytime for collaborations, regarding opportunities and to give talks on his research. Open to research internship opportunities for the Summer of 2024 and collaborations in general! 
 
-# (N.B. But please do not send unsolicited email for any purpose unrelated to what I have mentioned and my work, viz. spam of any sort! Such mails shall be promptly ignored.)
-
 <!--- {{< icon name="download" pack="fas" >}} Download his {{< staticref "/uploads/CV%20-%20Saswat%20Das.pdf" "newtab" >}}CV{{< /staticref >}}. -->
