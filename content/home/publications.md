@@ -9,7 +9,7 @@ active: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Articles and Publications
+title: Articles, Book Chapters, and Publications
 subtitle: ''
 
 content:
