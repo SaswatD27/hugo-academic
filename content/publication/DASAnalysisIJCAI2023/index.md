@@ -5,10 +5,10 @@ title: 'Privacy and Bias Analysis of Disclosure Avoidance Systems'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Keyu Zhu (Georgia Tech)
   - Ferdinando Fioretto (UVA)
-  - Pascal van Hentenryck (Georgia Tech)
+  - Keyu Zhu (Georgia Tech)
   - admin
+  - Pascal van Hentenryck (Georgia Tech)
   - Christine Task (Knexus Research)
 
 # Author notes (optional)
