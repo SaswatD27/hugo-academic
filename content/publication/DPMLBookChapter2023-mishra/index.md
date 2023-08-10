@@ -26,7 +26,7 @@ publishDate: '2023-08-08T00:00:00Z'
 publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: Book Chapter in Information Technology Security: Modern Trends and Challenges (Springer Nature)
+publication: Book Chapter in Information Technology Security - Modern Trends and Challenges (Springer Nature)
 publication_short: In *Information Technology Security (Springer Nature)*
 
 abstract: There has been an explosion of research on differential privacy (DP) and its various applications in recent years, ranging from novel variants and accounting techniques in differential privacy to the thriving field of differentially private machine learning (DPML) to newer implementations in practice, like those by various companies and organisations such as census bureaus. Most recent surveys focus on the applications of differential privacy in particular contexts like data publishing, specific machine learning tasks, analysis of unstructured data, location privacy etc. This work thus seeks to fill the gap for a survey that primarily discusses recent developments in the theory of differential privacy along with newer DP variants, viz. Renyi DP and Concentrated DP, novel mechanisms and techniques, and the theoretical developments in differentially private machine learning in proper detail. In addition, this survey discusses its applications to privacy-preserving machine learning in practice and a few practical implementations of DP.
