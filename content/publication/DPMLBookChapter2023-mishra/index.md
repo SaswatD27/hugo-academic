@@ -1,5 +1,5 @@
 ---
-title: 'Advances in Differential Privacy and Differentially Private Machine Learning: A Survey'
+title: 'Advances in Differential Privacy and Differentially Private Machine Learning - A Survey'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
