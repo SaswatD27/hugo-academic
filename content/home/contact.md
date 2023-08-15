@@ -29,7 +29,8 @@ content:
   email: thenicec1pher@gmail.com
   email: duh6ae@virginia.edu
   # email: dsaswat@syr.edu
-  phone: +91 63701 47889
+  phone: +1 (434) 760-7428
+  # phone: +91 63701 47889
   # phone: +1 (315) 886-5504
   address:
     street: Rice Hall 222
