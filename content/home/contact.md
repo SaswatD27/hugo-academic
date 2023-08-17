@@ -33,7 +33,7 @@ content:
   # phone: +91 63701 47889
   # phone: +1 (315) 886-5504
   address:
-    street: Rice Hall 222
+    street: Rice Hall 222, 85 Engineer's Way
     city: Charlottesville
     region: VA
     postcode: '22903'
