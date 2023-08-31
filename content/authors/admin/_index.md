@@ -40,7 +40,7 @@ email: duh6ae@virginia.edu
 superuser: true
 highlight_name: true
 ---
-I am a PhD student in Computer Science at the University of Virginia. I am fortunate to be advised by [Dr. Ferdinando Fioretto](https://nandofioretto.github.io). My research deals broadly with privacy and security; more precisely, my research interests include differential privacy and fairness, trustworthy AI (including private, fair, explainable and robust ML), cryptography, and topics related to security. 
+I am a PhD student in Computer Science at the University of Virginia (UVA). I am fortunate to be advised by [Dr. Ferdinando Fioretto](https://nandofioretto.github.io) as a member of the [TReLO Group](https://nandofioretto.github.io/group/) at UVA. My research deals broadly with privacy and security; more precisely, my research interests include differential privacy and fairness, trustworthy AI (including private, fair, explainable and robust ML), cryptography, and topics related to security. 
 
 Prior to this, I pursued an Integrated M.Sc. (BS+MS) degree at the National Institute of Science Education and Research (NISER), an off-campus centre of Homi Bhabha National Institute, India, with a major in Mathematics and a minor in Computer Science. I also was a student researcher at the School of Computer Sciences at NISER (2021-2023).
 
