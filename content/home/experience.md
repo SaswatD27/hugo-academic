@@ -35,7 +35,7 @@ experience:
     company_logo: Syracuse_Orange_logo
     location: Syracuse, NY, USA
     date_start: '2022-06-01'
-    date_end: '' 
+    date_end: '2023-05-15' 
     # 2022-08-15'
     # description: Currently working under the supervision of Dr. Ferdinando Fioretto, beginning with an internship in the summer of 2022 (June '22 - August '22) on research related to (but not limited to) differential privacy and fairness in data analysis (including demographic analysis) and AI.
   
@@ -45,7 +45,7 @@ experience:
     company_logo: National_Institute_of_Science_Education_and_Research
     location: Odisha, IN
     date_start: '2021-03-01'
-    date_end: ''
+    date_end: '2023-05-15'
     # description: Currently working on various projects related to differential privacy and privacy-preserving machine learning.
  
   - title: Section Leader, CodeInPlace
