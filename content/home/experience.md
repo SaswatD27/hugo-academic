@@ -29,7 +29,7 @@ experience:
     location: Charlottesville, VA, USA
     date_start: '2023-08-17'
     date_end: '' 
-  - title: Visiting Research Scholar
+  - title: Visiting Research Scholar/Collaborator
     company: EECS, Syracuse University
     company_url: 'https://ecs.syracuse.edu/'
     company_logo: Syracuse_Orange_logo
