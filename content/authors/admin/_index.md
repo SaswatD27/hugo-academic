@@ -46,4 +46,5 @@ Prior to this, I pursued an Integrated M.Sc. (BS+MS) degree at the National Inst
 
 Reach out to me anytime for discussing ideas, regarding opportunities and to give talks on my research. I'm open to research internship opportunities for the Summer of 2024 and collaborations in general! 
 
+(CV is outdated, will update it soon!)
 <!--- {{< icon name="download" pack="fas" >}} Download his {{< staticref "/uploads/CV%20-%20Saswat%20Das.pdf" "newtab" >}}CV{{< /staticref >}}. -->
