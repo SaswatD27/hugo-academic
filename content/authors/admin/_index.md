@@ -1,7 +1,7 @@
 ---
 title: Saswat Das
 role: PhD Student in Computer Science
-avatar_filename: ./SaswatPfP.png
+avatar_filename: SaswatPfP2.png
 bio: My research interests include differential privacy, privacy-preserving
   machine learning (viz. DPML and Federated Learning), and cryptography.
 interests:
