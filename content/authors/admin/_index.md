@@ -36,7 +36,7 @@ education:
     - course: Integrated M.Sc. (BS+MS) (Mathematics Major and Computer Science Minor)
       institution: National Institute of Science Education and Research, HBNI
       year: 2018 - 23
-email: duh6ae@virginia.edu
+email: saswatdas@email.virginia.edu
 superuser: true
 highlight_name: true
 ---
