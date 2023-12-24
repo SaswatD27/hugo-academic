@@ -5,11 +5,11 @@ title: 'Privacy and Bias Analysis of Disclosure Avoidance Systems'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Ferdinando Fioretto (UVA)
-  - Keyu Zhu (Georgia Tech)
   - admin
+  - Keyu Zhu (Georgia Tech)
   - Pascal van Hentenryck (Georgia Tech)
   - Christine Task (Knexus Research)
+  - Ferdinando Fioretto (UVA)
 
 # Author notes (optional)
 # author_notes:
@@ -17,7 +17,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023-12-09T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2301.12204'
+# doi: 'https://doi.org/10.48550/arXiv.2301.12204'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-12-09T00:00:00Z'
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2301.12204'
+url_pdf: '' #'https://arxiv.org/abs/2301.12204'
 url_code: ''
 url_dataset: ''
 url_poster: ''
