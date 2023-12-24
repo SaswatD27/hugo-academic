@@ -1,5 +1,5 @@
 ---
-title: 'Privacy and Bias Analysis of Disclosure Avoidance Systems'
+title: 'Finding ε and δ of Statistical Disclosure Control Systems'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
