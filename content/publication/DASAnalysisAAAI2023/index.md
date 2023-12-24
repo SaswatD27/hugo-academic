@@ -5,11 +5,11 @@ title: 'Finding ε and δ of Statistical Disclosure Control Systems'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Ferdinando Fioretto (UVA)
   - Keyu Zhu (Georgia Tech)
+  - admin
   - Pascal van Hentenryck (Georgia Tech)
   - Christine Task (Knexus Research)
-  - Ferdinando Fioretto (UVA)
 
 # Author notes (optional)
 # author_notes:
