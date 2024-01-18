@@ -31,5 +31,5 @@ main:
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
  #   parent: experience
-    url: uploads/Saswat_CV_121023.pdf
+    url: 'uploads/CV - Saswat Das.pdf'
     weight: 70
