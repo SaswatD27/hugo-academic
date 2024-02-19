@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '' #'https://arxiv.org/abs/2301.12204'
+url_pdf: 'AAAI_24_Camera_Ready_DAS.pdf' #'https://arxiv.org/abs/2301.12204'
 url_code: ''
 url_dataset: ''
 url_poster: ''
