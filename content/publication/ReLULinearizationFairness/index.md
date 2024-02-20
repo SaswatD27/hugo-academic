@@ -1,5 +1,5 @@
 ---
-title: 'Finding ε and δ of Statistical Disclosure Control Systems'
+title: 'Disparate Impact on Group Accuracy of Linearization for Private Inference'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
