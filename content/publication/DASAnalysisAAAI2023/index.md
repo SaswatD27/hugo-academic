@@ -48,13 +48,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/AAAI_24_Camera_Ready_DAS.pdf' #'https://arxiv.org/abs/2301.12204'
+url_pdf: 'https://ojs.aaai.org/index.php/AAAI/article/view/30204/32139'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://ojs.aaai.org/index.php/AAAI/article/view/30204'
 url_video: ''
 
 # Featured image
