@@ -7,8 +7,8 @@ title: 'Finding ε and δ of Statistical Disclosure Control Systems'
 authors:
   - admin
   - Keyu Zhu (Georgia Tech)
-  - Pascal van Hentenryck (Georgia Tech)
   - Christine Task (Knexus Research)
+  - Pascal van Hentenryck (Georgia Tech)
   - Ferdinando Fioretto (UVA)
 
 # Author notes (optional)
@@ -17,7 +17,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023-12-09T00:00:00Z'
-# doi: 'https://doi.org/10.48550/arXiv.2301.12204'
+doi: 'https://doi.org/10.1609/aaai.v38i20.30204'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-12-09T00:00:00Z'
@@ -51,7 +51,7 @@ featured: true
 url_pdf: 'https://ojs.aaai.org/index.php/AAAI/article/view/30204/32139'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://ojs.aaai.org/index.php/AAAI/article/view/30204/32140'
 url_project: ''
 url_slides: ''
 url_source: 'https://ojs.aaai.org/index.php/AAAI/article/view/30204'
