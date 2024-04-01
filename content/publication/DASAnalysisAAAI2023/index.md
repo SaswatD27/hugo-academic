@@ -54,7 +54,7 @@ url_dataset: ''
 url_poster: 'https://ojs.aaai.org/index.php/AAAI/article/view/30204/32140'
 url_project: ''
 url_slides: ''
-url_source: 'https://ojs.aaai.org/index.php/AAAI/article/view/30204'
+url_source: ''
 url_video: ''
 
 # Featured image
