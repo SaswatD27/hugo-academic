@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023-08-08T00:00:00Z'
-doi: 'https://link.springer.com/chapter/10.1007/978-981-97-0407-1_7'
+doi: 'https://doi.org/10.1007/978-981-97-0407-1_7'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-08-08T00:00:00Z'
