@@ -44,6 +44,6 @@ I am a PhD student at the [Department of Computer Science](https://engineering.v
 
 Prior to this, I pursued an Integrated M.Sc. (BS+MS) degree at the National Institute of Science Education and Research (NISER), an off-campus centre of Homi Bhabha National Institute, India, with a major in Mathematics and a minor in Computer Science. I also was a student researcher at the School of Computer Sciences at NISER (2021-2023).
 
-Reach out to me anytime for discussing ideas, regarding opportunities and to give talks on my research. I'm open to research internship opportunities for the Summer of 2024 and collaborations in general! 
+Reach out to me anytime for discussing ideas, regarding opportunities and to give talks on my research. I'm open to research internship opportunities and collaborations in general! 
 
 <!--- {{< icon name="download" pack="fas" >}} Download his {{< staticref "/uploads/Saswat_CV_2023_1105.pdf" "newtab" >}}CV{{< /staticref >}}. -->
