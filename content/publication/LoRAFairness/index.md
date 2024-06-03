@@ -7,7 +7,7 @@ title: 'Low-rank finetuning for LLMs: A fairness perspective'
 authors:
   - admin
   - Marco Romanelli (NYU)
-  - Cuong Train (Dyania Health)
+  - Cuong Tran (Dyania Health)
   - Zarreen Reza (OpenMined)
   - Bhavya Kailkhura (LLNL)
   - Ferdinando Fioretto (UVA)
