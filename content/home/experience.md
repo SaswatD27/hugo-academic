@@ -54,7 +54,7 @@ experience:
     company_logo: Stanford_Cardinal_logo
     # location: Online
     date_start: '2021-04-10'
-    date_end: '2020-05-20'
+    date_end: '2021-05-20'
     # description: Taught Python to a section of students from across the globe using material from Stanford University's CS106A course.
     
   - title: Attendee, Summer School on Computer & Cyber Security
