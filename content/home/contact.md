@@ -59,7 +59,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/SaswatDas19'
+      link: 'https://twitter.com/WatIsDas'
     - icon: fa-brands fa-linkedin
       icon_pack: fab
       name: Connect with Me
