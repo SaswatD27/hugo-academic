@@ -28,7 +28,14 @@ experience:
     company_logo: UVAlogo
     location: Charlottesville, VA, USA
     date_start: '2023-08-17'
-    date_end: '' 
+    date_end: ''
+  - title: PhD Intern
+    company: Pacific Northwest National Laboratory
+    company_url: https://www.pnnl.gov/
+    company_logo: PNNL_Logo
+    location: Charlottesville, VA, USA (Remote)
+    date_start: '2025-06-17'
+    date_end: '2025-08-21'  
   - title: Visiting Research Scholar/Collaborator
     company: EECS, Syracuse University
     company_url: 'https://ecs.syracuse.edu/'
