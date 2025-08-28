@@ -34,7 +34,7 @@ experience:
     company_url: https://www.pnnl.gov/
     company_logo: PNNL_Logo
     location: Charlottesville, VA, USA (Remote)
-    date_start: '2025-06-17'
+    date_start: '2025-07-01'
     date_end: '2025-12-17'  
   - title: Visiting Research Scholar/Collaborator
     company: EECS, Syracuse University
