@@ -9,7 +9,7 @@ authors:
   - Abhinav Kumar (UMass)
   - admin
   - Sahar Abdelnabi (ELLIS Institute Tubingen)
-  - Saadudin Mahmud (UMass)
+  - Saaduddin Mahmud (UMass)
   - Ferdinando Fioretto (UVA)
   - Shlomo Zilberstein (UMass)
   - Eugene Bagdasarian (UMass)
