@@ -13,13 +13,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:duh6ae@virginia.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/WatIsDas
-  - icon: mastodon
+  - icon: google-scholar
     icon_pack: fab
-    link: https://mastodon.social/@saswatdas
+    link: https://scholar.google.com/citations?user=KtVspJ0AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/SaswatD27
@@ -41,10 +41,10 @@ email: saswatdas@email.virginia.edu
 superuser: true
 highlight_name: true
 ---
-I am a PhD student at the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) of the [University of Virginia](https://www.virginia.edu) (UVA), where I am fortunate to be advised by [Dr. Ferdinando Fioretto](https://nandofioretto.github.io) as a member of the [RAISE Lab](https://nandofioretto.github.io/group/). My research interests are broadly situated within the fascinating area of trustworthy/responsible AI; more precisely, these include differential privacy, contextual integrity, algorithmic fairness, adversarial robustness. I am also interested in cryptography and topics related to security and (agentic) LLMs. 
+I am a PhD student at the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) of the [University of Virginia](https://www.virginia.edu) (UVA), where I am fortunate to be advised by [Dr. Ferdinando Fioretto](https://nandofioretto.github.io) as a member of the [RAISE Lab](https://nandofioretto.github.io/group/). My research interests are broadly situated within the fascinating area of trustworthy/responsible AI; more precisely, these include differential privacy, contextual integrity, agentic AI alignment (including single- and multi-agent systems), algorithmic fairness, and adversarial robustness. 
 
-Prior to this, I pursued an Integrated M.Sc. (BS+MS) degree at the National Institute of Science Education and Research (NISER) with a major in Mathematics and a minor in Computer Science. I also was a student researcher at the School of Computer Sciences at NISER (2021-2023).
+Prior to this, I pursued an Integrated M.Sc. (BS+MS) degree at the [National Institute of Science Education and Research (NISER)](https://www.niser.ac.in/) with a major in Mathematics and a minor in Computer Science, and was a student researcher at the School of Computer Sciences at NISER (2021-2023). I also spent the summer and fall of 2025 interning with [Pacific Northwest National Laboratory](https://www.pnnl.gov/).
 
-Reach out to me anytime for discussing ideas/collaborations, regarding opportunities, and to give talks on my research. I'm open to research internship opportunities as well! 
+Reach out to me anytime for discussing ideas/collaborations, regarding opportunities, and to give talks on my research. I'm open to research internship opportunities! 
 
 <!--- {{< icon name="download" pack="fas" >}} Download his {{< staticref "/uploads/Saswat_CV_2023_1105.pdf" "newtab" >}}CV{{< /staticref >}}. -->
