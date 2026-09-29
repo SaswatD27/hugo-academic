@@ -17,7 +17,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/WatIsDas
-  - icon: google-scholar
+  - icon: fa-google-scholar
     icon_pack: fab
     link: https://scholar.google.com/citations?user=KtVspJ0AAAAJ
   - icon: github
